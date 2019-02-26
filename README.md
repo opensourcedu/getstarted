@@ -1,4 +1,4 @@
-# getstarted
+# GET INVOLVED 
 
 # Introduction
 This open source initiative creates a free learning platform for learners and independent coaches. Coaches passionate about coaching for as low as a pack of coffee and four chocolate bars. Learners who can take advantage of the opportunity provided to master their desired technology at the cost of commitment and willingness to contribute back to open source. As an open source initiative, everyone is welcome to support, maintain and improve the project through selfless-donations or commitment to the project. 
